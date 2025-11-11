@@ -19,8 +19,8 @@ Acest proiect implementează un procesor MIPS pe 32 de biți, arhitectură singl
 - Control salturi și ramuri condiționate.
 - Interfață cu LED-uri și display 7 segmente.
 - Control prin butoane și switch-uri.
-
-##🧪 Detalii tehnice
+- 
+## 🧪 Detalii tehnice
 - Mediu de dezvoltare VHDL: Vivado.
 - Placă FPGA compatibilă cu VHDL.
 - Cunoștințe de arhitectură calculatoare și VHDL.
